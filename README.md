@@ -285,3 +285,4 @@ Computer Science student focused on **Machine Learning, Python, and practical AI
 ## 📌 Project Status
 
 This project demonstrates a complete machine learning workflow for medical insurance cost prediction using Random Forest Regression.
+> 🚧 **Status:** Completed ML project with Random Forest Regression. Further improvements and deployment may be added in future.
