@@ -282,12 +282,6 @@ Computer Science student focused on **Machine Learning, Python, and practical AI
 
 ---
 
-## 📜 License
-
-This project is created for **educational and learning purposes**.
-
----
-
 ## 📌 Project Status
 
 This project demonstrates a complete machine learning workflow for medical insurance cost prediction using Random Forest Regression.
